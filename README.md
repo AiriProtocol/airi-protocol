@@ -1,6 +1,6 @@
 # Protocolo AIRI: Introducción y Estructura Matemática del Modelo
 
-Versión del Modelo: 1.1
+Versión del Modelo: 1.0
 
 Estado del Sistema: Estable / Fase de Validación
 
