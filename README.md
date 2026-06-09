@@ -1,5 +1,9 @@
 # Protocolo AIRI: Introducción y Estructura Matemática del Modelo
 
+Versión del Modelo: 1.1
+
+Estado del Sistema: Estable / Fase de Validación
+
 ### Introducción del Autor
 
 No soy científico, no soy arqueólogo y no pertenezco a ninguna corriente mística. Soy un observador neutral. Este artículo es el resultado de aplicar lógica pura, sentido común y procesamiento de datos con Inteligencia Artificial para responder una pregunta: ¿Cómo podemos saber si detrás de los relatos antiguos hay un hecho físico real sin caer en debates ciegos de fe o escepticismo? He diseñado este método como un filtro matemático y probabilístico. No pretendo debatir ni defender esta teoría; la lógica expuesta habla por sí misma.
